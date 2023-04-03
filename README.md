@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bravindan
 - 👀 I’m interested in Software engineering/development and DevOps...
-- 🌱 I can code in JS,Python and Java
+- 🌱 I code in JS,Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...danielbravin0@gmail.com
 
